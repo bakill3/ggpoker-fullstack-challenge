@@ -1,0 +1,41 @@
+body {
+  background: linear-gradient(135deg, #dee2ff 0%, #e3fcec 100%);
+  font-family: 'Poppins', sans-serif;
+}
+.card {
+  border-radius: 1.25rem;
+}
+.btn-outline-danger {
+  margin-left: 10px;
+}
+input[type="number"]::-webkit-inner-spin-button {
+  opacity: 1;
+}
+#footer_info {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding: 10px 12px;
+  background-color: rgba(30, 40, 51, 0.8);
+  color: white;
+  border-top-right-radius: 8px;
+  z-index: 999;
+}
+
+#footer_info .footer-icon {
+  display: inline-block;
+  margin: 0 6px;
+}
+
+#footer_info .footer-icon i {
+  font-size: 1.8rem;
+  vertical-align: middle;
+}
+
+#footer_info .bi-github {
+  color: black;
+}
+
+#footer_info .bi-linkedin {
+  color: #0a66c2;
+}
