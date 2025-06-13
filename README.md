@@ -2,6 +2,9 @@
 
 Practical exercise for the Full Stack Developer position.
 
+## Main Page
+![Formulario](main.png)
+
 ## 🚀 How to Run Locally
 
 1. Clone or download this repository
